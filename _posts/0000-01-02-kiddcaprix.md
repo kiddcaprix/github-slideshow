@@ -2,6 +2,5 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-
-Hi There!
+To error is to human!
 Use the left arrow to go back!
